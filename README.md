@@ -5,7 +5,7 @@
 A beautifully simple budget tracking app built with **SwiftUI** and **MVVM+C (Model-View-ViewModel + Coordinator)** architecture. Bacon Tracker lets users easily track their income and expenses while using on-device **machine learning** to intelligently classify spending based on memo entries.
 
 <div align="center">
-  <img src="/mnt/data/Simulator Screenshot - My16Pro - 2025-06-03 at 21.28.04.png](https://github.com/user-attachments/assets/2e870b12-6469-4e19-9bf9-22267947699a)" width="200">
+  <img src="https://github.com/user-attachments/assets/2e870b12-6469-4e19-9bf9-22267947699a" width="200">
   <img src="/mnt/data/Simulator Screenshot - My16Pro - 2025-06-03 at 21.28.20.png" width="200">
   <img src="/mnt/data/Simulator Screenshot - My16Pro - 2025-06-03 at 21.28.31.png" width="200">
   <img src="/mnt/data/Simulator Screenshot - My16Pro - 2025-06-03 at 21.40.47.png" width="200">
