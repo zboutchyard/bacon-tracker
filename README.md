@@ -6,11 +6,11 @@ A beautifully simple budget tracking app built with **SwiftUI** and **MVVM+C (Mo
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2e870b12-6469-4e19-9bf9-22267947699a" width="200">
-  <img src="/mnt/data/Simulator Screenshot - My16Pro - 2025-06-03 at 21.28.20.png" width="200">
-  <img src="/mnt/data/Simulator Screenshot - My16Pro - 2025-06-03 at 21.28.31.png" width="200">
-  <img src="/mnt/data/Simulator Screenshot - My16Pro - 2025-06-03 at 21.40.47.png" width="200">
-  <img src="/mnt/data/Simulator Screenshot - My16Pro - 2025-06-03 at 21.40.52.png" width="200">
-  <img src="/mnt/data/Simulator Screenshot - My16Pro - 2025-06-03 at 21.41.29.png" width="200">
+  <img src="https://github.com/user-attachments/assets/bb1bf416-73b0-411c-bc47-a3a7e02f339f" width="200">
+  <img src="https://github.com/user-attachments/assets/5a64974b-9851-449f-967b-be5d8e04da05" width="200">
+  <img src="https://github.com/user-attachments/assets/a7fd5bb2-b9b5-41dd-9b02-32046d5d0993" width="200">
+  <img src="https://github.com/user-attachments/assets/c50dadc7-6279-40f2-a009-08caa658c9b9" width="200">
+  <img src="https://github.com/user-attachments/assets/21cb5393-4252-434f-bb1e-badaeee371ad" width="200">
 </div>
 
 ---
